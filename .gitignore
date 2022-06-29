@@ -3,3 +3,7 @@
 *.pyc
 .env
 *.log
+
+# binary files
+*.pkg
+*.exe
