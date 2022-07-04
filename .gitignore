@@ -3,7 +3,12 @@
 *.pyc
 .env
 *.log
+*.spec
 
 # binary files
 *.pkg
 *.exe
+
+# builds
+build/
+dist/

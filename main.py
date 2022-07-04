@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-import os
-from newsetup.app import get_apps
+from newsetup.app import get_platform_extension
 
 if __name__ == "__main__":
-    get_apps()
+    print(get_platform_extension())
